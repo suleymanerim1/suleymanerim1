@@ -5,7 +5,7 @@ Currently enrolled in the Data Science MS.c. @ Università degli Studi di Padova
 
 <br>🌍  I'm based in Padua, Italy
 <br>✉️  You can contact me at erim_suleyman@hotmail.com
-<br>🐱  Cat father | Runner
+<br>🐱  Cat father | I love running and playing tennis
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suleymanerim) 
